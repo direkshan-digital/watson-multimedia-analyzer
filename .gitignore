@@ -64,3 +64,4 @@ feeds
 .DS_Store
 .vscode/
 # public/media_files
+service-credentials.json

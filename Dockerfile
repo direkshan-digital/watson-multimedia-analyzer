@@ -1,5 +1,5 @@
 FROM ibmcom/ibmnode:latest
-MAINTAINER Scott Graham <swgraham@us.ibm.com>
+LABEL maintainer="Scott Graham <swgraham@us.ibm.com>"
 #
 #  This is the watson-multimedia-analyzer image
 #
